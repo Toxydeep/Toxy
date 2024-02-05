@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: rgba(219, 217, 210, 0.822);
+}
+
+.heading{
+   display: flex;
+   justify-content: space-around;
+   background-color: aqua;
+
+}
+.img{
+    height: 79px;
+    width: 140px;
+}
+.input{
+    margin: 20px;
+    background-color: antiquewhite;
+}
+.ahome{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 30px;
+    font-weight: 900;
+}
+ .home{
+    text-decoration: none;
+ }
+ .product{
+    text-decoration: none;
+ }
+.about{
+    text-decoration: none;
+}
+.contact{
+    text-decoration: none;
+}
+.account{
+    text-decoration: none;
+}
+
+.bag{
+    margin: 20px;
+
+}
+.input{
+    height: 40px;
+    width: 400px;
+    background-color: antiquewhite;
+   
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+   
+}
+.person{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(248, 244, 244, 0.971);
+    border: solid black 1px;
+}
+.person2{
+    height: 100px;
+    width: 300px;
+    background-color: rgba(14, 97, 206, 0.793);
+}
+.person3{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(248, 244, 244, 0.971);
+    border: solid black 1px;
+}
+.person4{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(12, 99, 12);
+}
+.person5{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(248, 244, 244, 0.971);
+    border: solid black 1px;
+}
+.person6{
+    height: 100px;
+    width: 300px;
+    background-color:rgb(199, 153, 17);
+}
+.person7{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(248, 244, 244, 0.971);
+    border: solid black 1px;
+}
+.person8{
+    height: 100px;
+    width: 300px;
+    background-color:rgb(86, 3, 71);
+}
+.deepak{
+
+    text-align: center;
+}
+.swarnim{
+    text-align: center;
+
+}
+.krishna{
+    text-align: center;
+}
+.aman{
+   text-align: center;
+   display: block;
+}
+.last{
+    background-color: antiquewhite;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.company{
+    margin: 5%;
+    
+}
+.sub{
+    margin: 5%;
+    
+}
+.pro{
+    margin: 5%;
+    
+
+}
+.sup{
+    margin: 5%;
+    
+
+}
+.connect{
+    margin: 5%;
+    
+}
